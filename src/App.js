@@ -7,26 +7,18 @@ import Experience from './components/Experience';
 import Contact from './components/contact';
 
 function App() {
-    return ( <
-        div >
-        <
-        NavBar / >
-        <
-        Home / >
-        <
-        About / >
+    return (       
 
-        <
-        Portfolio / >
-        <
-        Experience / >
-        <
-        Contact / >
-        <
-        SocialLinks / >
-
-        <
-        /div>
+        <div>
+            <NavBar/>
+            <Home/>
+            <About/>
+            <Portfolio/>
+            <Experience/>
+            <Contact/>
+            <SocialLinks/>
+        
+        </div>
 
 
     );

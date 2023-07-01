@@ -1,0 +1,1 @@
+this project is the clone of LinkedIn application using  React , Redux  and Material UI for frontend view.I have used Firebase for authentication  and real time backend services.
